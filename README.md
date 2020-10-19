@@ -8,6 +8,10 @@ This is example to show different parts of git repo
 
 ## Purpose
 
+The main purpose is to understand the working directory, staging area, local repo and remote repo
+
 ## Deployment
+
+Simple web project can be deployed on a webserver or local 
 
 ## How To Contribute
