@@ -5,6 +5,7 @@ This is a simple website project for showing how to use Git and Github together.
 ## Introduction
 
 This is example to show different parts of git repo
+The Git and Github course so far has been very interesting
 
 ## Purpose
 
