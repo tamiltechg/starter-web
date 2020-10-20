@@ -12,6 +12,7 @@ The main purpose is to understand the working directory, staging area, local rep
 
 ## Deployment
 
+There is actually no need to deploy this anywhere
 Simple web project can be deployed on a webserver or local 
 
 ## Copyright
