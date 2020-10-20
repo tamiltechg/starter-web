@@ -19,3 +19,5 @@ Simple web project can be deployed on a webserver or local
 @2020 Tamil Tech Guru
 
 ## How To Contribute
+
+Fork this repo and use it to learn Git on your own
