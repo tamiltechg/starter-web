@@ -14,4 +14,8 @@ The main purpose is to understand the working directory, staging area, local rep
 
 Simple web project can be deployed on a webserver or local 
 
+## Copyright
+
+@2020 Tamil Tech Guru
+
 ## How To Contribute
